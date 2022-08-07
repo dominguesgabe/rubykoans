@@ -2,9 +2,9 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
-require 'about_asserts'
-require 'about_true_and_false'
-require 'about_strings'
+require 'about_asserts' #done
+require 'about_true_and_false' #done
+require 'about_strings' #done
 require 'about_symbols'
 require 'about_arrays'
 require 'about_array_assignment'
