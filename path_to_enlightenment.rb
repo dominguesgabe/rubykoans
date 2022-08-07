@@ -5,8 +5,8 @@ $LOAD_PATH << File.dirname(__FILE__)
 require 'about_asserts' #done
 require 'about_true_and_false' #done
 require 'about_strings' #done
-require 'about_symbols'
-require 'about_arrays'
+require 'about_symbols' #done
+require 'about_arrays' #done
 require 'about_array_assignment'
 require 'about_objects'
 require 'about_nil'
