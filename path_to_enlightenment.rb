@@ -16,8 +16,8 @@ in_ruby_version("2", "3") do
   require 'about_keyword_arguments' #done
 end
 require 'about_constants' #done
-require 'about_regular_expressions'
-require 'about_control_statements'
+require 'about_regular_expressions' #done
+require 'about_control_statements' #done
 require 'about_triangle_project'
 require 'about_exceptions'
 require 'about_triangle_project_2'
