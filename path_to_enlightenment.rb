@@ -18,10 +18,10 @@ end
 require 'about_constants' #done
 require 'about_regular_expressions' #done
 require 'about_control_statements' #done
-require 'about_triangle_project'
-require 'about_exceptions'
-require 'about_triangle_project_2'
-require 'about_iteration'
+require 'about_triangle_project' #done
+require 'about_exceptions' #done
+require 'about_triangle_project_2' #done
+require 'about_iteration' #done
 require 'about_blocks'
 require 'about_sandwich_code'
 require 'about_scoring_project'
