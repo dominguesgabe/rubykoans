@@ -22,8 +22,8 @@ require 'about_triangle_project' #done
 require 'about_exceptions' #done
 require 'about_triangle_project_2' #done
 require 'about_iteration' #done
-require 'about_blocks'
-require 'about_sandwich_code'
+require 'about_blocks' #done
+require 'about_sandwich_code' #done
 require 'about_scoring_project'
 require 'about_classes'
 require 'about_open_classes'
